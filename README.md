@@ -57,6 +57,10 @@ I am a **Robotics Engineer** currently pursuing a **Master’s Degree in Computi
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidsanchezvelarde&show_icons=true&theme=tokyonight&count_private=true" alt="David's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsanchezvelarde&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=davidsanchezvelarde&show_icons=true&theme=tokyonight&count_private=true" alt="David's GitHub Stats" height="150" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsanchezvelarde&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  </a>
 </p>

@@ -54,13 +54,10 @@ I am a **Robotics Engineer** currently pursuing a **Master’s Degree in Computi
 
 ---
 
-### 📈 GitHub Stats
+---
 
-<p align="left">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=davidsanchezvelarde&show_icons=true&theme=tokyonight&count_private=true" alt="David's GitHub Stats" height="150" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsanchezvelarde&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-  </a>
-</p>
+### 🎯 Current Focus & Goals
+
+- ⚙️ **Practicing MLOps**: Containerizing Deep Learning models with Docker and FastAPI.
+- ☁️ **Cloud Learning**: Preparing for Microsoft Azure AI Fundamentals certification (AI-900).
+- 🚀 **Open to Opportunities**: Looking for Industrial AI / Computer Vision / Robotics internships in Bilbao.

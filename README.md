@@ -1,7 +1,7 @@
 # Hi there, I'm David Sánchez Velarde 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidsanchezvelarde/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:conacto.sanchezvelardedavid@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto.sanchezvelardedavid@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Bilbao,%20Spain-41B883?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
 ---
@@ -18,19 +18,19 @@ I am a **Robotics Engineer** currently pursuing a **Master’s Degree in Computi
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Core Frameworks**
+**Languages & Core Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2F%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=works&logoColor=white)
 
-**Artificial Intelligence, RL & Data**
+**Artificial Intelligence, RL & Data**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-232F3E?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Robotics & Industrial Automation**
+**Robotics & Industrial Automation**  
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![ABB RobotStudio](https://img.shields.io/badge/RobotStudio-ABB-FF0000?style=flat-square)
 ![FANUC Roboguide](https://img.shields.io/badge/Roboguide-FANUC-FFD700?style=flat-square&logoColor=black)
@@ -41,19 +41,19 @@ I am a **Robotics Engineer** currently pursuing a **Master’s Degree in Computi
 ### 📌 Key Highlights & Featured Projects
 
 #### 🤖 Autonomous Robotic Manipulation via Reinforcement Learning (2026)
-- Trained a 7-DOF Fetch industrial arm in **MuJoCo** using **Soft Actor-Critic (SAC)** and **Hindsight Experience Replay (HER)** across 4 continuous tasks, outperforming OpenAI benchmarks in sliding friction tasks (*Success rates up to 100%*).
+- Trained a 7-DOF Fetch industrial arm in **MuJoCo** using **Soft Actor-Critic (SAC)** and **Hindsight Experience Replay (HER)** across 4 continuous manipulation tasks, achieving a 100% success rate on complex sliding friction tasks and exceeding standard baseline metrics.
 
 #### ♠️ Computer Vision & Geometric Rectification for Blackjack (2026)
 - Built a CPU-efficient real-time game state detection system using **SIFT + RANSAC** feature matching, homography transformation, and dynamic rules logic without deep learning overhead.
 
 #### 🌬️ Wind Farm Predictive Maintenance & Data Analytics (2026)
-- Processed 1.3M+ sensor records using **Scikit-Learn** pipelines, ensemble learning (**Random Forest**, **Gradient Boosting**), and custom memory management for early failure classification.
+- Processed 1.3M+ sensor records using **Scikit-Learn** pipelines, ensemble learning (**Random Forest**, **Gradient Boosting**), and custom memory optimization for early failure classification.
 
 #### 🛰️ CubeSat Systems Engineer — *Aula Satlantis-Deusto* (2026 – Present)
-- Role as Systems Engineer in a real space project in collaboration with Satlantis, developing a functional CubeSat satellite.
+- Developing a functional CubeSat satellite as a Systems Engineer in a space mission project carried out in collaboration with Satlantis.
 
-#### 🦾 Fail-Safe Human-Cobot Safety System via Deep Learning (2026)
-- Developed a real-time safety framework combining scene classification (**ResNet-18**) and object detection (**YOLO v2**) to prevent collisions between operators and collaborative robots.
+#### 🦾 Proactive Human-Cobot Safety System via Deep Learning (2026)
+- Developed a real-time vision framework combining scene classification (**ResNet-18**) and object detection (**YOLO**) to monitor operator proximity and prevent collisions in collaborative robotic workspaces.
 
 ---
 

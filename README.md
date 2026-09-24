@@ -20,8 +20,7 @@ I am a **Robotics Engineer** currently pursuing a **Master’s Degree in Computi
 
 **Languages & Core Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2F%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=works&logoColor=white)
 
 **Artificial Intelligence, RL & Data**
